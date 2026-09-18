@@ -21,6 +21,16 @@ The app is built with Swift and SwiftUI. It uses a clean flat visual style, loca
 - Debug sample data for quick review and testing
 - Flat app icon and matching launch/splash experience
 
+## Screenshots
+
+<p>
+  <img src="LocalHomeTasks/screenshot/1.PNG" width="180" alt="LocalHomeTasks screenshot 1">
+  <img src="LocalHomeTasks/screenshot/2.PNG" width="180" alt="LocalHomeTasks screenshot 2">
+  <img src="LocalHomeTasks/screenshot/3.PNG" width="180" alt="LocalHomeTasks screenshot 3">
+  <img src="LocalHomeTasks/screenshot/4.PNG" width="180" alt="LocalHomeTasks screenshot 4">
+  <img src="LocalHomeTasks/screenshot/5.PNG" width="180" alt="LocalHomeTasks screenshot 5">
+</p>
+
 ## App Flow
 
 The app has three main tabs:

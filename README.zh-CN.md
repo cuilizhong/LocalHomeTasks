@@ -21,6 +21,16 @@ LocalHomeTasks 是一个本地优先的 iOS 应用，用于跟踪周期性家庭
 - Debug 环境自动生成示例数据，方便预览和测试
 - 扁平化 App 图标和一致的启动展示页
 
+## 应用截图
+
+<p>
+  <img src="LocalHomeTasks/screenshot/1.PNG" width="180" alt="LocalHomeTasks 截图 1">
+  <img src="LocalHomeTasks/screenshot/2.PNG" width="180" alt="LocalHomeTasks 截图 2">
+  <img src="LocalHomeTasks/screenshot/3.PNG" width="180" alt="LocalHomeTasks 截图 3">
+  <img src="LocalHomeTasks/screenshot/4.PNG" width="180" alt="LocalHomeTasks 截图 4">
+  <img src="LocalHomeTasks/screenshot/5.PNG" width="180" alt="LocalHomeTasks 截图 5">
+</p>
+
 ## App 流程
 
 应用包含三个主要 Tab：
@@ -243,4 +253,3 @@ Debug 构建会在本地存储为空时自动创建示例任务。
 - 逾期、即将到期和 upcoming 状态判断
 
 这些规则都在 UI 外部实现，后续可以用聚焦的单元测试覆盖。
-
